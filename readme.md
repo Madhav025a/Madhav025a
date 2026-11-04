@@ -1,4 +1,4 @@
-# Hey, I'm Madhav Tiwari 👋
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/131b7071-2f7a-491e-adbf-b424965b2cd3" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6ce989f1-4e62-458a-82d6-2cb1f939b0a0" /># Hey, I'm Madhav Tiwari 👋
 
 ### Founder | Digital Entrepreneur | Tech Enthusiast | AI & Automation
 
@@ -42,12 +42,13 @@ Building digital solutions and helping businesses leverage technology to grow.
 - 🎯 Focused on building useful products that solve real problems.
 - ☕ Powered by curiosity and coffee.
 
+
 ### 🤝 Let's Connect
 
 - 🌐 Website: [MAT Digital](https://matdigital.in)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
-- 📧 Email: Your email address
-
+- 📱 WhatsApp: [Let's chat](https://wa.me/+918826231174)
+- 📧 Email: madhav@matdigital.in
 ---
 
 *"Build things that matter. Keep learning. Keep shipping."* 🚀
