@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/131b7071-2f7a-491e-adbf-b424965b2cd3" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6ce989f1-4e62-458a-82d6-2cb1f939b0a0" /># Hey, I'm Madhav Tiwari 👋
+# Hey, I'm Madhav Tiwari 👋
 
 ### Founder | Digital Entrepreneur | Tech Enthusiast | AI & Automation
 
